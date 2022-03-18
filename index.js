@@ -1,4 +1,4 @@
-function Block(letter, rate, used, father,code) {
+function Block(letter, rate, used, father, code) {
 this.letter = letter;
 this.used = used;
 this.rate = rate;
